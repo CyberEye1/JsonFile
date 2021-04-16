@@ -1,0 +1,28 @@
+{
+"Hero":"Alucard",
+"NHero":"Demon Hunter",
+"IdHero":"000",
+"Backup":"https://github.com/CyberEye1/All-BACKUP/blob/main/Alucard(BACKUP).zip",
+"Skin":[{
+"Id":"001",
+"Name":"Child of the Fall",
+"Tag":"Epic",
+"Image":"https://github.com/CyberEye1/IMAGE-SKIN/blob/main/Alucard(EPIC).jpg",
+"Script":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(EPIC).zip"
+},
+{
+"Id":"002",
+"Name":"Obsidian Blade",
+"Tag":"Legend",
+"Image":"https://github.com/CyberEye1/IMAGE-SKIN/blob/main/Alucard(LEGEND).jpg",
+"Script":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(LEGEND).zip"
+},
+{
+"Id":"003",
+"Name":"Lightborn - Striker",
+"Tag":"Lightborn",
+"Image":"https://github.com/CyberEye1/IMAGE-SKIN/blob/main/Alucard(LIGHTBORN).jpg",
+"Script":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(LIGHTBORN).zip"
+}
+]
+}
