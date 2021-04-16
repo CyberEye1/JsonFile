@@ -1,0 +1,35 @@
+{
+"Hero":"Aldous",
+"NHero":"Contractor",
+"IdHero":"000",
+"Backup":"https://github.com/CyberEye1/All-BACKUP/blob/main/Aldous(BACKUP).zip",
+"Skin":[{
+"Id":"001",
+"Name":"Death",
+"Tag":"Elite",
+"Image":"https://github.com/CyberEye1/ALL-SKIN-IMAGE/blob/main/Aldous(ELITE).jpg",
+"Script":"https://github.com/CyberEye1/All-Skin/blob/main/Aldous(ELITE).zip"
+},
+{
+"Id":"002",
+"Name":"The Insentient",
+"Tag":"Starlight",
+"Image":"https://github.com/CyberEye1/ALL-SKIN-IMAGE/blob/main/Aldous%20Starlight.jpg",
+"Script":"https://github.com/CyberEye1/All-Skin/blob/main/Aldous%20(STARLIGHT).zip"
+},
+{
+"Id":"003",
+"Name":"King of Supremacy",
+"Tag":"M1",
+"Image":"https://github.com/CyberEye1/ALL-SKIN-IMAGE/blob/main/Aldous(M1).jpg",
+"Script":"https://github.com/CyberEye1/All-Skin/blob/main/Aldous(M1).zip"
+},
+{
+"Id":"004",
+"Name":"Blazing Force",
+"Tag":"Epic",
+"Image":"https://github.com/CyberEye1/ALL-SKIN-IMAGE/blob/main/Aldous%20Epic(BLAZING).jpg",
+"Script":"https://github.com/CyberEye1/All-Skin/blob/main/Aldous%20(BLAZING).zip"
+}
+]
+}
