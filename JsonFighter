@@ -2,19 +2,19 @@
 "Hero":"Alucard",
 "Backup":"https://github.com/CyberEye1/All-BACKUP/blob/main/Alucard(BACKUP).zip",
 "Skin":[{
-"Name":"Alu1",
+"Name":"Child of the Fall",
 "Tag":"Epic",
 "Image":"https://github.com/CyberEye1/IMAGE-SKIN/blob/main/Alucard(EPIC).jpg",
 "Script":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(EPIC).zip"
 },
 {
-"Name":"Alu2",
+"Name":"Obsidian Blade",
 "Tag":"Legend",
 "Image":"https://github.com/CyberEye1/IMAGE-SKIN/blob/main/Alucard(LEGEND).jpg",
 "Script":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(LEGEND).zip"
 },
 {
-"Name":"Alu3",
+"Name":"Lightborn - Striker",
 "Tag":"Lightborn",
 "Image":"https://github.com/CyberEye1/IMAGE-SKIN/blob/main/Alucard(LIGHTBORN).jpg",
 "Script":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(LIGHTBORN).zip"
