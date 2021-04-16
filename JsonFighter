@@ -1,5 +1,6 @@
-[
 {
+"Hero":"Alucard",
+"Skin":[{
 "Tag_1":"Epic",
 "Image_1":"https://github.com/CyberEye1/ALL-SKIN-IMAGE/blob/main/Alucard(EPIC).jpg",
 "Skin_1":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(EPIC).zip"
@@ -15,3 +16,4 @@
 "Skin_3":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(LIGHTBORN).zip"
 }
 ]
+}
