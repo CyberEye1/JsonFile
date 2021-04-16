@@ -1,6 +1,7 @@
 {
 "Hero":"Alucard",
 "NHero":"Demon Hunter",
+"IdHero":"000",
 "Backup":"https://github.com/CyberEye1/All-BACKUP/blob/main/Alucard(BACKUP).zip",
 "Skin":[{
 "Id":"001",
