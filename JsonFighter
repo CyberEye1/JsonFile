@@ -1,5 +1,4 @@
 {
-{
 "Hero":"Alucard",
 "NHero":"Demon Hunter",
 "IdHero":"000",
@@ -26,7 +25,7 @@
 "Script":"https://github.com/CyberEye1/All-Skin/blob/main/Alucard(LIGHTBORN).zip"
 }
 ]
-},{
+,{
 "Hero":"Aldous",
 "NHero":"Demon Hunter",
 "IdHero":"000",
